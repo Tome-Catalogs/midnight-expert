@@ -1,0 +1,8 @@
+name = "midnight-wallet"
+version = "0.6.0"
+description = "Wallet SDK reference, test-wallet management patterns, and SDK regression checking for Midnight Network development."
+license = "MIT"
+
+[author]
+name = "Aaron Bassett"
+email = "aaron@devrel-ai.com"

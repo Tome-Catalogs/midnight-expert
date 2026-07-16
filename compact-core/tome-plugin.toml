@@ -1,0 +1,8 @@
+name = "compact-core"
+version = "0.12.0"
+description = "Core knowledge for writing Midnight Compact smart contracts — contract structure, data types, ledger declarations, circuits, witnesses, and common patterns."
+license = "MIT"
+
+[author]
+name = "Aaron Bassett"
+email = "aaron@devrel-ai.com"

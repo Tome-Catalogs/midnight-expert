@@ -1,0 +1,8 @@
+name = "midnight-indexer"
+version = "0.3.0"
+description = "Technical reference for the Midnight indexer — architecture, GraphQL API, data model, and operational guidance for querying on-chain state"
+license = "MIT"
+
+[author]
+name = "Aaron Bassett"
+email = "aaron@devrel-ai.com"

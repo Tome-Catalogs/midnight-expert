@@ -1,0 +1,67 @@
+name = "midnight-expert"
+description = "An end-to-end toolkit for building on the Midnight blockchain: writing, auditing, and mechanically verifying Compact smart contracts, developing DApps and wallets, and running the supporting node, indexer, and proof-server infrastructure. For developers working with Compact and the Midnight SDK."
+version = "0.50.1"
+
+[owner]
+name = "Aaron Bassett"
+email = "aaronbassett@gmail.com"
+
+[[plugins]]
+name = "compact-cli-dev"
+source = "compact-cli-dev"
+
+[[plugins]]
+name = "compact-core"
+source = "compact-core"
+
+[[plugins]]
+name = "compact-examples"
+source = "compact-examples"
+
+[[plugins]]
+name = "core-concepts"
+source = "core-concepts"
+
+[[plugins]]
+name = "midnight-cq"
+source = "midnight-cq"
+
+[[plugins]]
+name = "midnight-dapp-dev"
+source = "midnight-dapp-dev"
+
+[[plugins]]
+name = "midnight-expert"
+source = "midnight-expert"
+
+[[plugins]]
+name = "midnight-fact-check"
+source = "midnight-fact-check"
+
+[[plugins]]
+name = "midnight-indexer"
+source = "midnight-indexer"
+
+[[plugins]]
+name = "midnight-node"
+source = "midnight-node"
+
+[[plugins]]
+name = "midnight-status-codes"
+source = "midnight-status-codes"
+
+[[plugins]]
+name = "midnight-tooling"
+source = "midnight-tooling"
+
+[[plugins]]
+name = "midnight-verify"
+source = "midnight-verify"
+
+[[plugins]]
+name = "midnight-wallet"
+source = "midnight-wallet"
+
+[[plugins]]
+name = "proof-server"
+source = "proof-server"

@@ -1,0 +1,8 @@
+name = "compact-cli-dev"
+version = "0.6.0"
+description = "Scaffold and develop Oclif CLIs for Midnight Compact smart contracts. Includes a complete CLI template with wallet management, contract deployment, devnet control, and an AI agent for ongoing development."
+license = "MIT"
+
+[author]
+name = "Aaron Bassett"
+email = "aaron@devrel-ai.com"

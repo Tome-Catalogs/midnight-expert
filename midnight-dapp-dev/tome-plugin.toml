@@ -1,0 +1,8 @@
+name = "midnight-dapp-dev"
+version = "0.6.0"
+description = "Scaffold and build Midnight DApp frontends — Vite + React 19 + shadcn + Tailwind v4 templates, wallet integration, provider architecture, and a development agent for ongoing UI work."
+license = "MIT"
+
+[author]
+name = "Aaron Bassett"
+email = "aaron@devrel-ai.com"

@@ -1,0 +1,8 @@
+name = "midnight-node"
+version = "0.3.0"
+description = "Technical reference for the Midnight node — Substrate-based architecture, runtime pallets, RPC interface, configuration, operations, and governance"
+license = "MIT"
+
+[author]
+name = "Aaron Bassett"
+email = "aaron@devrel-ai.com"

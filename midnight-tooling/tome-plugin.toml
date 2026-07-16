@@ -1,0 +1,8 @@
+name = "midnight-tooling"
+version = "0.4.0"
+description = "Installs, configures, and manages the Midnight Network development toolchain — Compact CLI, compiler version switching, local devnet (node, indexer, proof server), diagnostics, and release notes for all Midnight components."
+license = "MIT"
+
+[author]
+name = "Aaron Bassett"
+email = "aaron@devrel-ai.com"
